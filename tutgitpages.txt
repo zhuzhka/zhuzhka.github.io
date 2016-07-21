@@ -1,0 +1,16 @@
+mkdir test 
+git init 
+touch file
+git add . file
+git status
+git commit -m "..."
+git log
+git remote add origin https://github.com/yourname/yourname/test.io.git 
+git push -u origin master 
+
+mod files
+
+git add .
+git commit -m ".." or git commit -am ".."  
+git push origin master
+

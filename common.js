@@ -1,1 +1,1 @@
-document.write('testing script';)
+document.write('testing script');
